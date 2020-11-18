@@ -6,5 +6,3 @@
 
 ## TO-DO:
 *    - Add more commands (I am to lazy, but, I will get to it)
-*    -
-*    -
