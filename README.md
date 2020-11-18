@@ -6,11 +6,9 @@
 * Keep in mind that the prefix of this bot is `?`, you can change it at config.json.
 
 ## Requirements:
-* NODE.JS
+* Node.JS
 * Discord.JS
-* A brain .w.
-* A Discord bot token
-* Finaaaaaaaally, a way to host this thing. (Can be done locally or on a real host)
+* A Discord bot
 
 ## TO-DO:
 *    - Add more commands (I am to lazy, but, I will get to it)
