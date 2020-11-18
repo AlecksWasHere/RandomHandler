@@ -5,5 +5,12 @@
 * You can suggest ideas in issues and I will look into them. Feel free to star this project if you like it.
 * Keep in mind that the prefix of this bot is `?`, you can change it at config.json.
 
+## Requirements:
+* NODE.JS
+* Discord.JS
+* A brain .w.
+* A Discord bot token
+* Finaaaaaaaally, a way to host this thing. (Can be done locally or on a real host)
+
 ## TO-DO:
 *    - Add more commands (I am to lazy, but, I will get to it)
